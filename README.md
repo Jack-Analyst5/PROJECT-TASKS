@@ -1,9 +1,7 @@
 # PROJECT-TASKS
 # Introduction
-These are the tasks that I have undertaken as part of my journey as a Data Analyst. At this stage, I have provided a high-level overview of the project to outline its purpose, scope, and key outcomes. This overview is intended to give a general understanding of the work without going into detailed methodologies, data structures, or in-depth analysis.
+This repository showcases my work outputs developed using Microsoft Fabric Notebooks during my studies at Mission Ready.
+The projects demonstrate my hands-on experience in data analysis, including data cleaning, exploration, and visualisation. Each project includes a high-level overview of its objectives, scope, and key outcomes to provide a clear understanding of the work.
 
-Through this project, I have developed a stronger understanding of core data analysis practices, including data cleaning, data exploration, critical thinking, and interpreting results to support insights. I have also improved my ability to work with real-world datasets, identify patterns and trends, and communicate findings more effectively through visualisation and structured analysis. This experience has highlighted areas where I can continue to grow, particularly in refining my analytical approach and strengthening my ability to generate meaningful, data-driven insights. Overall, it has been an important step in my continuous learning and development as a Data Analyst.
-
-Access to the full project details—including processes, technical implementation, and complete findings—will require a formal request. This approach ensures that the information is shared appropriately and in a controlled manner.
-
-Additionally, permission from Mission Ready HQ is required before any detailed information can be disclosed, as no prior approval has been granted. This is to ensure that all project materials are handled in accordance with organisational guidelines and confidentiality requirements.
+In addition, I have included screenshots from other tasks completed during my time at Mission Ready to highlight my broader exposure and practical application of data tools and techniques.
+Through this work, I have built a strong foundation in working with real-world datasets, identifying trends, and delivering clear, data-driven insights. These projects reflect my ongoing growth and commitment to developing as a Data Analyst.
